@@ -1,2 +1,2 @@
 Hi There!<br>
-I am Avik Ghosh, a first-year undergraduate of IIT Kharagpur, in the department of Electrical Engineering under the branch of Instrumentation Engineering.
+I am Avik Ghosh, a sophomore at IIT Kharagpur, in the department of Electronics and Electrical Communication Engineering.
